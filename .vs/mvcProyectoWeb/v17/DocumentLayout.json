@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\scpc523\\desktop\\mvcproyectoweb\\mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\scpc523\\desktop\\mvcproyectoweb\\mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\scpc523\\desktop\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\scpc523\\desktop\\mvcproyectoweb\\mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8D95E4-BD12-4202-B774-EAAF37566632}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\appsettings.json",
+              "RelativeToolTip": "mvcProyectoWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T00:21:44.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T23:48:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T23:47:37.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SCPC523\\Desktop\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T23:38:39.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
